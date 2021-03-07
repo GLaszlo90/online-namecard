@@ -83,7 +83,7 @@ a{
     color:#363;
 }
 a:hover{
-    margin:2px;
+    color:#659A62
 }
 @media(min-width: 600px){
     .wraper{
